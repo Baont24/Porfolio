@@ -125,7 +125,7 @@ img {
 /*====================== Screen Small Devices =======================*/
 @media screen and (max-width: 600px) {
   .container {
-    width: var(--container-width-sm);
+    width: var(--contanier-width-sm);
   }
 
   section > h2 {
